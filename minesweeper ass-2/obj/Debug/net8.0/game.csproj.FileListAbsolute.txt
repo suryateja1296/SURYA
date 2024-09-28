@@ -1,0 +1,14 @@
+C:\Users\Tej12\source\repos\game\bin\Debug\net8.0\game.exe
+C:\Users\Tej12\source\repos\game\bin\Debug\net8.0\game.deps.json
+C:\Users\Tej12\source\repos\game\bin\Debug\net8.0\game.runtimeconfig.json
+C:\Users\Tej12\source\repos\game\bin\Debug\net8.0\game.dll
+C:\Users\Tej12\source\repos\game\bin\Debug\net8.0\game.pdb
+C:\Users\Tej12\source\repos\game\obj\Debug\net8.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tej12\source\repos\game\obj\Debug\net8.0\game.AssemblyInfoInputs.cache
+C:\Users\Tej12\source\repos\game\obj\Debug\net8.0\game.AssemblyInfo.cs
+C:\Users\Tej12\source\repos\game\obj\Debug\net8.0\game.csproj.CoreCompileInputs.cache
+C:\Users\Tej12\source\repos\game\obj\Debug\net8.0\game.dll
+C:\Users\Tej12\source\repos\game\obj\Debug\net8.0\refint\game.dll
+C:\Users\Tej12\source\repos\game\obj\Debug\net8.0\game.pdb
+C:\Users\Tej12\source\repos\game\obj\Debug\net8.0\game.genruntimeconfig.cache
+C:\Users\Tej12\source\repos\game\obj\Debug\net8.0\ref\game.dll
