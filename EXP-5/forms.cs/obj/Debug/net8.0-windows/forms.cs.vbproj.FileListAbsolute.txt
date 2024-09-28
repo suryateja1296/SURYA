@@ -1,0 +1,17 @@
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\bin\Debug\net8.0-windows\forms.cs.exe
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\bin\Debug\net8.0-windows\forms.cs.deps.json
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\bin\Debug\net8.0-windows\forms.cs.runtimeconfig.json
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\bin\Debug\net8.0-windows\forms.cs.dll
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\bin\Debug\net8.0-windows\forms.cs.pdb
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\obj\Debug\net8.0-windows\forms.cs.Form1.resources
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\obj\Debug\net8.0-windows\forms.cs.vbproj.GenerateResource.cache
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\obj\Debug\net8.0-windows\forms.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\obj\Debug\net8.0-windows\forms.cs.AssemblyInfoInputs.cache
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\obj\Debug\net8.0-windows\forms.cs.AssemblyInfo.vb
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\obj\Debug\net8.0-windows\forms.cs.vbproj.CoreCompileInputs.cache
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\obj\Debug\net8.0-windows\forms.cs.dll
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\obj\Debug\net8.0-windows\refint\forms.cs.dll
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\obj\Debug\net8.0-windows\forms.cs.pdb
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\obj\Debug\net8.0-windows\forms.cs.genruntimeconfig.cache
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\obj\Debug\net8.0-windows\ref\forms.cs.dll
+C:\Users\Tej12\source\repos\forms.cs\forms.cs\obj\Debug\net8.0-windows\forms.cs.Resources.resources
