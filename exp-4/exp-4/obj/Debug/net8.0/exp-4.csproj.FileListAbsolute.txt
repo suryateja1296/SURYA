@@ -1,0 +1,14 @@
+C:\Users\Tej12\source\repos\exp-4\exp-4\bin\Debug\net8.0\exp-4.exe
+C:\Users\Tej12\source\repos\exp-4\exp-4\bin\Debug\net8.0\exp-4.deps.json
+C:\Users\Tej12\source\repos\exp-4\exp-4\bin\Debug\net8.0\exp-4.runtimeconfig.json
+C:\Users\Tej12\source\repos\exp-4\exp-4\bin\Debug\net8.0\exp-4.dll
+C:\Users\Tej12\source\repos\exp-4\exp-4\bin\Debug\net8.0\exp-4.pdb
+C:\Users\Tej12\source\repos\exp-4\exp-4\obj\Debug\net8.0\exp-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tej12\source\repos\exp-4\exp-4\obj\Debug\net8.0\exp-4.AssemblyInfoInputs.cache
+C:\Users\Tej12\source\repos\exp-4\exp-4\obj\Debug\net8.0\exp-4.AssemblyInfo.cs
+C:\Users\Tej12\source\repos\exp-4\exp-4\obj\Debug\net8.0\exp-4.csproj.CoreCompileInputs.cache
+C:\Users\Tej12\source\repos\exp-4\exp-4\obj\Debug\net8.0\exp-4.dll
+C:\Users\Tej12\source\repos\exp-4\exp-4\obj\Debug\net8.0\refint\exp-4.dll
+C:\Users\Tej12\source\repos\exp-4\exp-4\obj\Debug\net8.0\exp-4.pdb
+C:\Users\Tej12\source\repos\exp-4\exp-4\obj\Debug\net8.0\exp-4.genruntimeconfig.cache
+C:\Users\Tej12\source\repos\exp-4\exp-4\obj\Debug\net8.0\ref\exp-4.dll
